@@ -1,5 +1,5 @@
 function customizeCake() {
-    alert("Take your time and create your perfect cake with me! Let's start customizing!");
+alert("Take your time and create your perfect cake with me! Let's start customizing!");
 }
 
 function contactUs() {
